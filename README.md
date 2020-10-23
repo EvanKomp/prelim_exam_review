@@ -14,3 +14,8 @@ A. J. Chowdhury, W. Yang, E. Walker, O. Mamun, A. Heyden, and G. A. Terejanu, â€
 ./*.png
 
 	Figures concerning the effeect of training data size on model accuracy as well as a single optimized model predictions. This random process (based on the training data chosen) has the potential to produce a very poor model, not seen by the authors' averaging.
+
+
+Required packages:
+
+scikit-learn, pandas, numpy, seaborn, matplotlib
