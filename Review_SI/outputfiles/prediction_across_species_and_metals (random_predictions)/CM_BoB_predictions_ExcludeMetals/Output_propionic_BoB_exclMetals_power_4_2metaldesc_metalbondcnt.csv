@@ -1,0 +1,7 @@
+,case,subcase,algo,mean of MAEs,std of MAEs,SD of AEs,mean of Stds,std of Stds
+0,propionic_BoB_exclMetals_power_4,2metaldesc_metalbondcnt,svr,0.1682309993886552,0.03746787458076394,0.21591451798833491,N/A,N/A
+1,propionic_BoB_exclMetals_power_4,2metaldesc_metalbondcnt,krr,0.15797477535531118,0.029382898983267226,0.16648790722843018,N/A,N/A
+2,propionic_BoB_exclMetals_power_4,2metaldesc_metalbondcnt,ridge,0.30761126473580463,0.038146821062137154,0.2706571816779391,N/A,N/A
+3,propionic_BoB_exclMetals_power_4,2metaldesc_metalbondcnt,lasso,0.3157580795066284,0.038682229435861755,0.27517535294089107,N/A,N/A
+4,propionic_BoB_exclMetals_power_4,2metaldesc_metalbondcnt,elastic,0.30210370699834305,0.03860584677119975,0.2603529747285375,N/A,N/A
+5,propionic_BoB_exclMetals_power_4,2metaldesc_metalbondcnt,gp,0.1719913623501058,0.038619941373437855,0.20807346212707117,0.36571247583998084,0.4128360426200559
