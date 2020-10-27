@@ -1,7 +1,7 @@
 # prelim_exam_review
 Data and notebook acting on the data for the review paper. See readme
 
-This repository is contains some evaluating work as review for the below publication, that is concerned with predicting adsorbtion energies.
+This repository is contains some evaluating work as review for the below publication, that is concerned with predicting adsorption energies.
 
 A. J. Chowdhury, W. Yang, E. Walker, O. Mamun, A. Heyden, and G. A. Terejanu, “Prediction of Adsorption Energies for Chemical Species on Metal Catalyst Surfaces Using Machine Learning,” J. Phys. Chem. C, vol. 122, no. 49, pp. 28142–28150, 2018, doi: 10.1021/acs.jpcc.8b09284.
 
